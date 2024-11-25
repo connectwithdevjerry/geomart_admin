@@ -23,7 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 ./gitpush.sh
-src/components/Customers.jsx
 src/components/Dashboard.jsx
 src/components/EditProduct.jsx
 src/components/ErrorPage.jsx
