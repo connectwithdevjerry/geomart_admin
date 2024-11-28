@@ -23,8 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 ./gitpush.sh
-src/components/index.js
-src/components/Order.jsx
 src/components/Payments.jsx
 src/components/Product.jsx
 src/components/Reports.jsx
