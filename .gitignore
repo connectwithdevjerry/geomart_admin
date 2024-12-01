@@ -23,5 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 ./gitpush.sh
-src/components/Sales.jsx
-src/components/Settings.jsx
