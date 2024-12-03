@@ -11,10 +11,7 @@ const Order = () => {
                 <th className="px-4 py-2">Order ID</th>
                 <th className="px-4 py-2">Customer Name</th>
                 <th className="px-4 py-2">Product</th>
-                <th className="px-4 py-2">Quantity</th>
-                <th className="px-4 py-2">Price</th>
-                <th className="px-4 py-2">Status</th>
-                <th className="px-4 py-2">Actions</th>
+                
               </tr>
             </thead>
             <tbody>
